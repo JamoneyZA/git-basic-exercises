@@ -1,0 +1,96 @@
+    1  status
+    2  dir
+    3  cd C:\Users\User\git-basic-exercises
+    4  /c/Users/User/git-basic-exercises
+    5  cd /c/Users/User/git-basic-exercises
+    6  ls -a
+    7  git init
+    8  git status
+    9  touch README.md
+   10  ls -a
+   11  git status
+   12  git log
+   13  git add README.md
+   14  git status
+   15  git rm --cached README.md
+   16  git status
+   17  git add README.md
+   18  git status
+   19  git commit -m "initial commit"
+   20  git log
+   21  q
+   22  git log isn't that nice?
+   23  q
+   24  q
+   25  q
+   26  cls
+   27  git log
+   28  cd/c/Users/User/git-basic-exercises
+   29  cd /c/Users/User/git-basic-exercises
+   30  git log
+   31  nano README.md
+   32  cat README.md
+   33  git status
+   34  git add README.md
+   35  git status
+   36  git commit -m "second commit"
+   37  nano readme.md
+   38  git log
+   39  git status
+   40  git add readme.md
+   41  git status
+   42  git commit -m "third commit"
+   43  cat readme.md
+   44  git status
+   45  git log
+   46  git add README.md
+   47  git status
+   48  git commmit -m third commit
+   49  git commit -m third commit
+   50  git add README.md 
+   51  git status
+   52  git commit -m "third commit"
+   53  git log
+   54  git checkout
+   55  cat README.md
+   56  git checkout f1c91a10eac0a24c14bb520d69c41a7c6257994e
+   57  cat README.md
+   58  git checkout main
+   59  man checkout
+   60  git checkout main
+   61  git checkout master
+   62  cat readme.md
+   63  git branch
+   64  git branch -b milkshake-flavours
+   65  git branch
+   66  git branch milkshake-flavours
+   67  git branch
+   68  git checkout milkshake-flavours
+   69  git branch
+   70  git checkout master
+   71  git branch
+   72  git checkout milkshake-flavours
+   73  git branch
+   74  nano milkshakes.md
+   75  git status
+   76  git add milkshakes.md
+   77  git status
+   78  git commit -m "added initial flavours"
+   79  git log
+   80  git checkout master
+   81  git status
+   82  git branch history
+   83  git log
+   84  checkout branch history
+   85  git checkout history
+   86  git log
+   87  git checkout master
+   88  git log
+   89  git checkout milkshake-flavours
+   90  git log
+   91  git checkout master
+   92  git log
+   93  git checkout history
+   94  git log
+   95  git branch
+   96  history > history.txt
